@@ -1,5 +1,5 @@
 # Cycles
-Snake is a variant of the classic game that we all used to play on our cellphones. You play this game 
+Cycles is a Tron's motorcyle race look a like game for two players. You play this game 
 on a simulated terminal, with a textual interface and two players have to avoid colliding with each other.
 
 ## Getting Started
